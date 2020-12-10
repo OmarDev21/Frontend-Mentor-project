@@ -1,0 +1,130 @@
+html, body{
+margin: 0;
+padding: 0;
+background-color:#F0F0F0;
+}
+#main-card{
+position: relative;
+left: 350px;
+top:50px;
+border: solid 1px white;
+background-color: white;
+appearance: none;
+border-radius: 5px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+width: 670px;
+height: 500px;
+
+}
+.hja9{
+Color:hsl(179, 62%, 43%);
+padding-left: 1.4em;
+padding-top: 0.5em;
+font-weight: 700;
+}
+h2, h3, p{
+font-family:"Karla";
+
+}
+.fff9{
+color:hsl(71, 73%, 54%);
+padding-left: 1.5em;
+padding-top: 0.5em;
+font-weight: 700;
+font-size: 22px;
+}
+.ffg9{
+padding-left: 2em;
+font-weight: 400;
+font-size: 18px;
+color: (218, 22%, 67%);  
+}
+
+.card1{
+margin-top: 0;
+padding: 0;
+border: solid 1px#2BB3B1;
+background-color:#2BB3B1;
+width: 335px;
+height: 260px;
+float: left;
+position: relative;
+left: -1px;
+top: 56px;
+border-bottom-left-radius: 5px;
+}
+.card2{
+padding: 0;
+border: solid 1px#47BEBC;
+background-color:#47BEBC;
+width: 334px;
+height: 260px;
+position: relative;
+float: left;
+left: 336px;
+top: -206px;
+border-bottom-right-radius: 5px;
+}
+.ere4{
+font-size: 20px;
+font-weight: 700;
+color: white;
+margin: 2em;
+display: flex;
+flex-direction: row;
+}
+.mom2{
+color: white;
+font-size: 35px;
+margin-left: 1em;
+margin-top: -0.5em;
+display: flex;
+flex-direction: row;
+}
+.jhf3{
+margin-top: 0.8em;
+margin-left: 1em;
+font-size: 15px;
+color:hsl(204, 43%, 93%)
+
+}
+.uid3{
+margin-top: -2em;
+margin-left: 2em;
+color: white;
+font-weight: 400;
+font-size: 19px;
+font-family:"Karla";
+}
+.ref1{
+border: solid 1px hsl(71, 73%, 54%);
+border-radius: 6px;
+background-color:hsl(71, 73%, 54%);
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+width: 230px;
+height: 50px;
+margin-top:1em;
+cursor: pointer;
+color: white;
+font-size: 16px;
+font-weight: 700;
+font-family: "Karla";
+}
+.kdh3{
+margin-top: 1.5em;
+margin-left: 1.5em;
+color: white;
+}
+.kdh2{
+margin-left: 2em;
+color: white;
+font-size: 18px;
+font-weight: 400;
+}
+.attribution{
+margin: 0;
+font-weight: 700;
+
+}
+
+
